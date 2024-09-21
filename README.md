@@ -1,2 +1,2 @@
 ### Olá! Me chamo Vítor Hugo de Abreu Schell!
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorHasc&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/VitorHasc/github-readme-stats)
