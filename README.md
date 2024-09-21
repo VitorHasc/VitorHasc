@@ -31,3 +31,8 @@
 </div>
 
 ---
+
+### 🌟 Projetos em destaque
+- [**SPORTS MATCH - APLICATIVO PARA SOCIALIZAÇÃO ENTRE ESPORTISTAS**]: Um app desenvolvido com React Native que tem como propósito funcionar como uma rede social para pessoas que procuram parceiros na prática de esportes e exercícios fisicos.
+  [**FRONTEND**](https://github.com/VitorHasc/TCC_FRONTEND)
+  [**API**]([https://github.com/VitorHasc/TCC_FRONTEND](https://github.com/VitorHasc/TCC_API))
