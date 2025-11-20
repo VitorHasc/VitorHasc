@@ -2,13 +2,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorHasc&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
----
-
 ### 🚀 Tecnologias que uso no dia a dia
 <div style="display: inline_block"><br/>
   <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -30,8 +23,3 @@
 </div>
 
 ---
-
-### 🌟 Projetos em destaque
-- [**SPORTS MATCH - APLICATIVO PARA SOCIALIZAÇÃO ENTRE ESPORTISTAS**]: Um app desenvolvido com React Native que tem como propósito funcionar como uma rede social para pessoas que procuram parceiros na prática de esportes e exercícios fisicos.
-  [**FRONTEND**](https://github.com/VitorHasc/TCC_FRONTEND) <br/>
-  [**API**](https://github.com/VitorHasc/TCC_API)
